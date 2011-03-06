@@ -1,0 +1,4 @@
+Author: Prem Seetharaman
+Purpose: To be able to text a server with some commands, and have it return relevant information regarding shuttles around Northwestern campus.
+
+Runs on Google App Engine.
